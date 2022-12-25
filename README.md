@@ -1,4 +1,4 @@
-# Realtime Chat Project
+# NekoChat
 We make realtime chat messaging like discord. Users can send emoji, images, and gifts. This project is built using React, Nodejs. We use stream io API for realtime chat messaging.
 
 ## Backend
